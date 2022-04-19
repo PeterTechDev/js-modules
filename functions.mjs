@@ -10,3 +10,8 @@ function showHobby (name, hobby) {
   return `O hobby de ${name} é ${hobby}`;
 }
 
+export {
+  showAge,
+  showCity,
+  showHobby,
+}
